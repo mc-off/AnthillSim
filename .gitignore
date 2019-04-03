@@ -1,0 +1,12 @@
+#Output files
+
+*.pdf
+
+#VS
+
+#Folders
+
+*/Debug
+/Debug
+/.vs/AnthillSim/v15/ipch/AutoPCH/5adddea15251e472
+/.vs/AnthillSim/v15
